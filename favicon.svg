@@ -1,0 +1,22 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="logo" width="400" height="400" viewBox="40 40 320 320">
+    <style>
+        #logo {
+            stroke: black;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            #logo {
+                stroke: white;
+            }
+        }
+    </style>
+ <g>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="160" x2="70" y1="90" x1="70" stroke="#000" fill="none"/>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="160" x2="330" y1="160.46512" x1="70" stroke="#000" fill="none"/>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="90" x2="330" y1="159.70152" x1="330" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_9" y2="350" x2="200" y1="50" x1="200" stroke-width="15" stroke="#000" fill="none"/>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_11" y2="240" x2="329.58333" y1="240" x1="69.58333" stroke="#000" fill="none"/>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_14" y2="309.58333" x2="70.41667" y1="240" x1="70.41667" stroke="#000" fill="none"/>
+  <line stroke-width="15" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_15" y2="240" x2="330" y1="310" x1="330" stroke="#000" fill="none"/>
+ </g>
+</svg>
